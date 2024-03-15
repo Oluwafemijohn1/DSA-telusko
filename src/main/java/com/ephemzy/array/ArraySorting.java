@@ -1,6 +1,6 @@
-package com.ephemzy;
+package com.ephemzy.array;
 
-public class Sorting {
+public class ArraySorting {
     public static void main(String[] args) {
         int[] nums = {6,5,2,8,9,4};
 

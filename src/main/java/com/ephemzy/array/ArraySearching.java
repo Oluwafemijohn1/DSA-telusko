@@ -1,6 +1,6 @@
-package com.ephemzy;
+package com.ephemzy.array;
 
-public class Searching {
+public class ArraySearching {
     public static void main(String[] args) {
         int[] nums = {3, 5, 7, 11, 13,15, 16, 18};
         int target = 11;
