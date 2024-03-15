@@ -32,6 +32,7 @@ public class RunnerClass {
         list.insert(18);
         list.insertAt(0, 55);
         list.insertAtTheStart(35);
+        list.deleteAt(2);
         list.show();
 
     }
